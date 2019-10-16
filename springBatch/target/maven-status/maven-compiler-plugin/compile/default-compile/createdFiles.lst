@@ -1,0 +1,3 @@
+com\batch\program\ExampleConfiguration.class
+com\batch\program\ExampleItemReader.class
+com\batch\program\ExampleItemWriter.class
